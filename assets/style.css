@@ -1,0 +1,120 @@
+body {
+    font-family: 'Roboto', 'sans-serif';
+    color: black;
+}
+
+/*TITLE FOR SECTIONS*/
+.section_title {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/*INTRO*/
+.intro_img {
+    margin-bottom: 0px;
+}
+
+.intro {
+    margin-bottom: 0px;
+    margin-top: 20px;
+}
+
+/*NAVBAR*/
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
+/*ABOUT*/
+.about {
+    margin-top: 80px;
+}
+
+.introduce {
+    padding: 20px;
+    margin-top: 50px;
+    font-size: 18px;
+}
+
+.personal_info p {
+    margin-bottom: 50px;
+}
+
+.selfie {
+    height: 391px;
+    width: 320px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.personal_info {
+    float: right;
+}
+
+.personal_info ul{
+    list-style: none;
+}
+
+/*SKILLS*/
+.skills{
+    color:white;
+    background-color: #2d2d2d;
+}
+
+/*PROGRESS*/
+.progress {
+    border-radius: 0px;
+}
+
+.progress-bar{
+    background-color: #5b5b5b;
+}
+
+.progress_bars {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/*EXPIRIENCE*/
+.expirience {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/*SERIVCES*/
+.services {
+    color: white;
+    background-color: #2d2d2d;
+}
+
+.service_box {
+    text-align: center;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.service_box p {
+    padding: 10px;
+    font-size: 20px;
+}
+
+/*FOOTER*/
+.footer {
+    height: auto;
+    padding: 20px;
+    color: black;
+    transition: all ease-in-out 1.5s;
+}
+
+.footer:hover {
+    color: white;
+    background-color: #2d2d2d;
+}
