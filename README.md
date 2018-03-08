@@ -1,7 +1,7 @@
 # Static-portfolio
 
 
-![Landing](/images/screenshots/lisadoe1.png)
+![](images/screenshots/lisadoe1.PNG)
 
 
-![Skills](/images/screenshots/lisadoe2.png)
+![](images/screenshots/lisadoe2.PNG)
