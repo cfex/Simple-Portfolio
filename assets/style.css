@@ -1,5 +1,5 @@
 body {
-    font-family: 'Roboto', 'sans-serif';
+    font-family: 'Roboto Slab', serif;
     color: black;
 }
 
@@ -104,6 +104,11 @@ body {
 .service_box p {
     padding: 10px;
     font-size: 20px;
+}
+
+.projects img {
+	width: auto;
+	box-sizing: border-box;
 }
 
 /*FOOTER*/
