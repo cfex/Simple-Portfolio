@@ -1,6 +1,7 @@
 # Static-portfolio
 
 
-![alt tag](https://ibb.co/kSrynn "Landing")
+![alt text](images/screenshots/lisadoe1.png "About")
 
-![alt tag](https://ibb.co/iSBsDS "Skills")
+
+![alt text](images/screenshots/lisadoe2.png "Skills")
